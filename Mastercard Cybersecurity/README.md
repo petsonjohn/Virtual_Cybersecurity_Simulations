@@ -1,7 +1,9 @@
-
 **Platform:** Forage
+
 **Company:** Mastercard
+
 **Date completed:** August 6, 2026
+
 **Role simulated:** Security Awareness Team Analyst
 
 ---
@@ -98,4 +100,4 @@ Communication, Data Analysis, Data Visualization, Design Thinking, Problem Solvi
 
 ## Application to SOC and Security Awareness roles
 
-This maps directly onto real security awareness work: reading a phishing attempt, understanding why it succeeds or fails, and turning results into training that targets an actual behavior gap instead of repeating generic advice. It also lines up with what I'm doing right now at NCC, where I'm designing phishing simulation campaigns for a federal regulatory body, so I have a real comparison point between how a global fintech runs this program versus a government agency.
+This maps directly onto real security awareness work: reading a phishing attempt, understanding why it succeeds or fails, and turning results into training that targets an actual behavior gap instead of repeating generic advice.
